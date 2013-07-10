@@ -133,3 +133,6 @@
 [submodule "layout"]
 	path = layout
 	url = https://github.com/gianebao/layout.git
+[submodule "jpages"]
+	path = jpages
+	url = https://github.com/gianebao/JPages.git
