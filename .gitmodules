@@ -136,3 +136,9 @@
 [submodule "jpages"]
 	path = jpages
 	url = https://github.com/gianebao/JPages.git
+[submodule "asset-merger"]
+	path = asset-merger
+	url = https://github.com/gianebao/asset-merger.git
+[submodule "kohana-aws"]
+	path = kohana-aws
+	url = https://github.com/gianebao/kohana-aws.git
